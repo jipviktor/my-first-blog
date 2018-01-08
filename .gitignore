@@ -1,0 +1,8 @@
+*.pyc
+__pycache__
+ myvenv
+ db.sqlite3
+.DS_Store
+
+DJANGO GIRLS PRIKAZY - PRIKAZOVA RADKA.txt
+DJANGO GIRLS PRIKAZY.txt
